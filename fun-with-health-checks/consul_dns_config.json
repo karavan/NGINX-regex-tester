@@ -1,8 +1,0 @@
-{
-  "node_name": "consul",
-  "server": true,
-  "log_level": "DEBUG",
-  "dns_config": {
-    "enable_truncate": true
-  }
-}
